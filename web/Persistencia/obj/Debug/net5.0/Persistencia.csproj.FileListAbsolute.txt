@@ -1,0 +1,60 @@
+C:\Users\Maria\Desktop\Programacion web\SEGUNDO PARCIAL\web\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
+C:\Users\Maria\Desktop\Programacion web\SEGUNDO PARCIAL\web\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.json
+C:\Users\Maria\Desktop\Programacion web\SEGUNDO PARCIAL\web\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.dev.json
+C:\Users\Maria\Desktop\Programacion web\SEGUNDO PARCIAL\web\Persistencia\bin\Debug\net5.0\Persistencia.dll
+C:\Users\Maria\Desktop\Programacion web\SEGUNDO PARCIAL\web\Persistencia\bin\Debug\net5.0\ref\Persistencia.dll
+C:\Users\Maria\Desktop\Programacion web\SEGUNDO PARCIAL\web\Persistencia\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\Maria\Desktop\Programacion web\SEGUNDO PARCIAL\web\Persistencia\obj\Debug\net5.0\Persistencia.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\Programacion web\SEGUNDO PARCIAL\web\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\Desktop\Programacion web\SEGUNDO PARCIAL\web\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\Maria\Desktop\Programacion web\SEGUNDO PARCIAL\web\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
+C:\Users\Maria\Desktop\Programacion web\SEGUNDO PARCIAL\web\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Programacion web\SEGUNDO PARCIAL\web\Persistencia\obj\Debug\net5.0\Persistencia.dll
+C:\Users\Maria\Desktop\Programacion web\SEGUNDO PARCIAL\web\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
+C:\Users\Maria\Desktop\Programacion web\SEGUNDO PARCIAL\web\Persistencia\obj\Debug\net5.0\Persistencia.pdb
+C:\Users\Maria\Desktop\Programacion web\SEGUNDO PARCIAL\web\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache
+C:\Users\Maria\Desktop\Programacion web\Trabajo Integrador PW\web\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
+C:\Users\Maria\Desktop\Programacion web\Trabajo Integrador PW\web\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.json
+C:\Users\Maria\Desktop\Programacion web\Trabajo Integrador PW\web\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.dev.json
+C:\Users\Maria\Desktop\Programacion web\Trabajo Integrador PW\web\Persistencia\bin\Debug\net5.0\Persistencia.dll
+C:\Users\Maria\Desktop\Programacion web\Trabajo Integrador PW\web\Persistencia\bin\Debug\net5.0\ref\Persistencia.dll
+C:\Users\Maria\Desktop\Programacion web\Trabajo Integrador PW\web\Persistencia\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\Maria\Desktop\Programacion web\Trabajo Integrador PW\web\Persistencia\obj\Debug\net5.0\Persistencia.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\Programacion web\Trabajo Integrador PW\web\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\Desktop\Programacion web\Trabajo Integrador PW\web\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\Maria\Desktop\Programacion web\Trabajo Integrador PW\web\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
+C:\Users\Maria\Desktop\Programacion web\Trabajo Integrador PW\web\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Programacion web\Trabajo Integrador PW\web\Persistencia\obj\Debug\net5.0\Persistencia.dll
+C:\Users\Maria\Desktop\Programacion web\Trabajo Integrador PW\web\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
+C:\Users\Maria\Desktop\Programacion web\Trabajo Integrador PW\web\Persistencia\obj\Debug\net5.0\Persistencia.pdb
+C:\Users\Maria\Desktop\Programacion web\Trabajo Integrador PW\web\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache
+C:\Users\Maria\Desktop\Web Final\Trabajo-Integrador-PW-master\web\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
+C:\Users\Maria\Desktop\Web Final\Trabajo-Integrador-PW-master\web\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.json
+C:\Users\Maria\Desktop\Web Final\Trabajo-Integrador-PW-master\web\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.dev.json
+C:\Users\Maria\Desktop\Web Final\Trabajo-Integrador-PW-master\web\Persistencia\bin\Debug\net5.0\Persistencia.dll
+C:\Users\Maria\Desktop\Web Final\Trabajo-Integrador-PW-master\web\Persistencia\bin\Debug\net5.0\ref\Persistencia.dll
+C:\Users\Maria\Desktop\Web Final\Trabajo-Integrador-PW-master\web\Persistencia\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\Maria\Desktop\Web Final\Trabajo-Integrador-PW-master\web\Persistencia\obj\Debug\net5.0\Persistencia.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\Web Final\Trabajo-Integrador-PW-master\web\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\Desktop\Web Final\Trabajo-Integrador-PW-master\web\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\Maria\Desktop\Web Final\Trabajo-Integrador-PW-master\web\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
+C:\Users\Maria\Desktop\Web Final\Trabajo-Integrador-PW-master\web\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Web Final\Trabajo-Integrador-PW-master\web\Persistencia\obj\Debug\net5.0\Persistencia.dll
+C:\Users\Maria\Desktop\Web Final\Trabajo-Integrador-PW-master\web\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
+C:\Users\Maria\Desktop\Web Final\Trabajo-Integrador-PW-master\web\Persistencia\obj\Debug\net5.0\Persistencia.pdb
+C:\Users\Maria\Desktop\Web Final\Trabajo-Integrador-PW-master\web\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache
+C:\Users\Maria\Desktop\copia webfinal\Web Final\Trabajo-Integrador-PW-master\web\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
+C:\Users\Maria\Desktop\copia webfinal\Web Final\Trabajo-Integrador-PW-master\web\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.json
+C:\Users\Maria\Desktop\copia webfinal\Web Final\Trabajo-Integrador-PW-master\web\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.dev.json
+C:\Users\Maria\Desktop\copia webfinal\Web Final\Trabajo-Integrador-PW-master\web\Persistencia\bin\Debug\net5.0\Persistencia.dll
+C:\Users\Maria\Desktop\copia webfinal\Web Final\Trabajo-Integrador-PW-master\web\Persistencia\bin\Debug\net5.0\ref\Persistencia.dll
+C:\Users\Maria\Desktop\copia webfinal\Web Final\Trabajo-Integrador-PW-master\web\Persistencia\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\Maria\Desktop\copia webfinal\Web Final\Trabajo-Integrador-PW-master\web\Persistencia\obj\Debug\net5.0\Persistencia.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\copia webfinal\Web Final\Trabajo-Integrador-PW-master\web\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\Desktop\copia webfinal\Web Final\Trabajo-Integrador-PW-master\web\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\Maria\Desktop\copia webfinal\Web Final\Trabajo-Integrador-PW-master\web\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
+C:\Users\Maria\Desktop\copia webfinal\Web Final\Trabajo-Integrador-PW-master\web\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\copia webfinal\Web Final\Trabajo-Integrador-PW-master\web\Persistencia\obj\Debug\net5.0\Persistencia.dll
+C:\Users\Maria\Desktop\copia webfinal\Web Final\Trabajo-Integrador-PW-master\web\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
+C:\Users\Maria\Desktop\copia webfinal\Web Final\Trabajo-Integrador-PW-master\web\Persistencia\obj\Debug\net5.0\Persistencia.pdb
+C:\Users\Maria\Desktop\copia webfinal\Web Final\Trabajo-Integrador-PW-master\web\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache

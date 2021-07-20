@@ -1,0 +1,79 @@
+
+
+<h1>{{titulo}}</h1>
+
+<body class="row"> 
+    <div class="col-sm costadito">
+
+    </div>
+<form [formGroup]="formLibreria"(ngSubmit)="GuardarFormulario()" class="form-horizontal col-sm">
+
+
+    <fieldset>
+        <div class="form-group">
+            <label for="nombre" class="col-sm-2 control-label">Nombre</label>
+            <div class="col-md-8">
+                <input class="form-control"
+                id="nombre"
+                type="text"
+                formControlName="nombre"
+            />
+            <span *ngIf="formLibreria.get('nombre').errors?.required" [ngStyle]="{'color':'blue','background-color':'#ff0','text-align':'center'}">
+                ** El campo es requerido **
+            </span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="direccion" class="col-sm-2 control-label">Direccion</label>
+            <div class="col-md-8">
+                <input class="form-control"
+                id="direccion"
+                type="text"
+                formControlName="direccion"
+            />
+            <span *ngIf="formLibreria.get('direccion').errors?.required" [ngStyle]="{'color':'blue','background-color':'#ff0','text-align':'center'}">
+                ** El campo es requerido **
+            </span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="telefono" class="col-sm-2 control-label">Telefono</label>
+            <div class="col-md-8">
+                <input class="form-control"
+                id="telefono"
+                type="tel"
+                formControlName="telefono" 
+                required minlength="8"
+                required maxlength="8" 
+            />
+            <span *ngIf="formLibreria.get('telefono').errors?.required" [ngStyle]="{'color':'blue','background-color':'#ff0','text-align':'center'}">
+                ** El campo es requerido **
+            </span>
+            <span *ngIf="formLibreria.get('telefono').errors?.pattern" [ngStyle]="{'color':'red','background-color':'','text-align':'center'}">
+                **¡Solo numeros!**
+            </span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="horario" class="col-sm-2 control-label">Horario</label>
+            <div class="col-md-8">
+            <select formControlName="horario" class="form-control">
+                <option value="">---Seleccionar el horario---</option>
+                <option *ngFor="let horario of horarios" [value]="horario.descripcion">{{ horario.descripcion }}</option>
+            </select>    
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-8">
+            <button type="submit" class="btn btn-primary form-control" [disabled]="!formLibreria.valid">Guardar</button>
+        </div>
+        </div>
+
+    </fieldset>
+
+</form>
+</body>
+

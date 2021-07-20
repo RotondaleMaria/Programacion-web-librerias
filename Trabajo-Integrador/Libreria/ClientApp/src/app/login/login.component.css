@@ -1,0 +1,66 @@
+
+
+.loginTitle{
+    
+font-weight: 700;
+text-align: center;
+}
+
+.card-body {
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem;
+    background-color: rgb(223, 201, 201);}
+
+button{
+    
+    border: none;
+    margin: top 2px;
+    border-radius: 4px;
+    display: block;
+    width: 100%;
+    margin: 10px auto;
+    color:white;
+    padding: 20px;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: 'roboto';
+    background: #C04848;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #480048, #C04848);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #480048, #C04848); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+*,
+::after,
+::before{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+form{
+    background: #fff;
+    padding: 40px;
+    box-shadow: 0 0 6px 0 rgba(45, 56, 211, 0.8);
+    border-radius: 5px;
+    }
+
+.loginForm{
+        width: 50%;
+        margin: auto;
+        
+    }
+
+form.grupo{
+        position:relative;
+        margin: 45px;
+        }
+
+input{
+            background: none;
+            color:black;
+            font-size: 18px;
+            display: block;
+            border: none;
+            width: 100%;
+            border-bottom: 1px solid black;
+}

@@ -1,0 +1,65 @@
+<header>
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <div class="container">
+            <button
+                class="navbar-toggler"
+                type="button"
+                data-toggle="collapse"
+                data-target=".navbar-collapse"
+                aria-label="Toggle navigation"
+                [attr.aria-expanded]="isExpanded"
+                (click)="toggle()"
+            >
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div
+                class="navbar-collapse collapse d-sm-inline-flex justify-content-end"
+                [ngClass]="{ show: isExpanded }"
+            >
+                <ul class="navbar-nav flex-grow">
+                    <li
+                        class="nav-item"
+                        [routerLinkActive]="['link-active']"
+                    >
+                        <a
+                            class="navbar-brand"
+                            [routerLink]="['/libreria']"
+                        >Libreria</a>
+                    </li>
+
+                    <li
+                        class="nav-item"
+                        [routerLinkActive]="['link-active']"
+                    >
+                        <a
+                            class="navbar-brand"
+                            [routerLink]="['/libro']"
+                        >Libro</a>
+                    </li>
+
+                    <li
+                    class="nav-item"
+                    [routerLinkActive]="['link-active']"
+                >
+                    <a
+                        class="navbar-brand"
+                        [routerLink]="['']"
+                    >Salir</a>
+                </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+
+<body class="fondo">
+    <h1>BIENVENIDOS</h1>
+
+    <h2>
+        La lectura hace al hombre completo;
+
+        <br>
+        la conversación lo hace ágil, el escribir lo hace preciso.
+    </h2>
+</body>

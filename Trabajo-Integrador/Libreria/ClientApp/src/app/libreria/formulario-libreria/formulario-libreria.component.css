@@ -1,0 +1,15 @@
+
+
+.costadito{
+    background-image: url('../../img/images.jpg'); 
+    background-size:cover;
+}
+
+h1{
+    text-align:center;
+    color: black;
+    font-family:'lato';
+    font: 4em sans-serif;
+}
+
+

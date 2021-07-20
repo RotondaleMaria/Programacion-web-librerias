@@ -1,0 +1,36 @@
+
+h1 {
+    font-size: 06em;
+    text-align: center;
+    color: rgb(25, 34, 160);
+    font-family: 'Lato';
+    
+
+}
+
+
+h2 {
+    
+    text-align:center;
+    color: black;
+    font-family:'lato';
+    font-size:xx-large;
+}
+
+body.fondo{
+    background-image: url('../img/imagen2.jpeg');
+    width: 100%;
+    height: 100vh;
+    background-size:cover;
+    margin:auto;
+}
+
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
+

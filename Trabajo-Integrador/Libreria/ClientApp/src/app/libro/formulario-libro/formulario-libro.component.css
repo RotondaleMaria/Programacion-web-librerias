@@ -1,0 +1,14 @@
+.izquierda{
+    background-image: url('../../img/images4.jpg'); 
+    background-size:cover;
+
+}
+
+h1{
+    text-align:center;
+    color: black;
+    font-family:'lato';
+    font: 4em sans-serif;
+}
+
+
